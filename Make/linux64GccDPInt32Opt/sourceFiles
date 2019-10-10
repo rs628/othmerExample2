@@ -1,0 +1,6 @@
+SOURCE = \
+adjointOutletPressureUni/adjointOutletPressureUniFvPatchScalarField.C \
+adjointOutletVelocityUni/adjointOutletVelocityUniFvPatchVectorField.C \
+adjointShapeOptimizationFoam.C \
+
+# sources

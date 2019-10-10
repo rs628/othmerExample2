@@ -1,0 +1,5 @@
+adjointOutletPressureUni/adjointOutletPressureUniFvPatchScalarField.C
+adjointOutletVelocityUni/adjointOutletVelocityUniFvPatchVectorField.C
+adjointShapeOptimizationFoam.C
+
+EXE = $(FOAM_APPBIN)/adjointShapeOptimizationFoam
